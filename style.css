@@ -1,0 +1,26 @@
+#div1{
+    width: 60%;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+}
+#div2{
+    display: flex;
+    justify-content: center;
+    gap: 580px;
+    margin-top: 10px;
+}
+a{
+    /* background-color: black; */
+    color: black;
+    padding: 15px;
+    border-radius: 50%;
+    
+}
+.dark{
+    background-color: black;
+    color: white;
+}
+.white{
+    color: white;
+}
